@@ -14,7 +14,7 @@ Contents
 - Report: Jupyter Notebook
 - Python scripts to automate data acquisition and preparation process. Used in notebook
 
-## Acquire
+## Acquisition
 
 ## Preparation
 
